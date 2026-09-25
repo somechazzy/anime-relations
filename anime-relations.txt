@@ -596,6 +596,9 @@
 # JoJo's Bizarre Adventure: Stone Ocean -> ~ Part 3
 - 48661|44294|?:25-38 -> 53273|46598|?:1-14!
 
+# JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE -> JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE
+- ?|?|190327:2-12 -> ?|?|210482:1-11
+
 # Jormungand -> ~: Perfect Order
 - 12413|6726|12413:13-24 -> 13331|6940|13331:1-12!
 
